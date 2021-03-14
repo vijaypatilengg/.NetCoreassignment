@@ -1,0 +1,12 @@
+D:\SessionAssignment\Repository\bin\Debug\netstandard2.1\Repository.deps.json
+D:\SessionAssignment\Repository\bin\Debug\netstandard2.1\Repository.dll
+D:\SessionAssignment\Repository\bin\Debug\netstandard2.1\Repository.pdb
+D:\SessionAssignment\Repository\bin\Debug\netstandard2.1\DAL.dll
+D:\SessionAssignment\Repository\bin\Debug\netstandard2.1\DAL.pdb
+D:\SessionAssignment\Repository\obj\Debug\netstandard2.1\Repository.csprojAssemblyReference.cache
+D:\SessionAssignment\Repository\obj\Debug\netstandard2.1\Repository.AssemblyInfoInputs.cache
+D:\SessionAssignment\Repository\obj\Debug\netstandard2.1\Repository.AssemblyInfo.cs
+D:\SessionAssignment\Repository\obj\Debug\netstandard2.1\Repository.csproj.CoreCompileInputs.cache
+D:\SessionAssignment\Repository\obj\Debug\netstandard2.1\Repository.csproj.CopyComplete
+D:\SessionAssignment\Repository\obj\Debug\netstandard2.1\Repository.dll
+D:\SessionAssignment\Repository\obj\Debug\netstandard2.1\Repository.pdb
